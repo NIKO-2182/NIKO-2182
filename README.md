@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="200" src="https://i0.wp.com/codemyui.com/wp-content/uploads/2016/09/project-deadline-progress-bar-animation.gif?fit=880%2C440&ssl=1"  />
-</div>
+<img align="left" height="200" src="https://i0.wp.com/codemyui.com/wp-content/uploads/2016/09/project-deadline-progress-bar-animation.gif?fit=880%2C440&ssl=1"  />
 
 ###
 
@@ -15,6 +13,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="60" alt="anaconda logo"  />
@@ -56,16 +56,11 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NIKO-2182/NIKO-2182/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NIKO-2182/NIKO-2182/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NIKO-2182/NIKO-2182/output/pacman-contribution-graph.svg">
-</picture>
+<br clear="both">
 
-###
-
-<div align="right">
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NIKO-2182&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=NIKO-2182&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
