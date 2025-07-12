@@ -1,8 +1,10 @@
-<img align="left" height="200" src="https://i0.wp.com/codemyui.com/wp-content/uploads/2016/09/project-deadline-progress-bar-animation.gif?fit=880%2C440&ssl=1"  />
+<br clear="both">
+
+<h2 align="center">🛠️ Engineering intelligence from 🧬 molecules to 🤖 models</h2>
 
 ###
 
-<h2 align="center">🛠️ Engineering intelligence from 🧬 molecules to 🤖 models</h2>
+<img align="left" height="200" src="https://i0.wp.com/codemyui.com/wp-content/uploads/2016/09/project-deadline-progress-bar-animation.gif?fit=880%2C440&ssl=1"  />
 
 ###
 
@@ -13,8 +15,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="60" alt="anaconda logo"  />
